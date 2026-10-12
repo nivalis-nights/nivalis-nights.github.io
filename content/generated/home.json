@@ -1,0 +1,246 @@
+{
+  "enabled": true,
+  "slug": "",
+  "pageType": "home",
+  "navVisible": true,
+  "title": "Nivalis Nights: Game Wiki, Fishing, Mods & Guides",
+  "description": "Explore Nivalis Nights on Steam with a practical game overview, beginner guides, fishing tips, mod installation, quests, and liquid nitrogen locations.",
+  "hero": {
+    "eyebrow": "Independent Game Wiki & Guides",
+    "heading": "Nivalis Nights",
+    "lead": "Nivalis Nights is a cyberpunk life and business simulation from ION LANDS and publisher 505 Games, released on Steam on September 29, 2026. Build a food business, spend time with the city's residents, decorate your home, and explore the waterfront. Need a next step? Begin with your venue and supplies, or open a focused guide for fishing, liquid nitrogen, mods, or the Seafaring quest. Each guide puts the practical answer first, with steps and links for the problem you are solving.",
+    "supportingText": "Your next move in the city, from a first noodle stand to an offshore treasure hunt.",
+    "primaryLink": {
+      "slug": "guide-wiki",
+      "label": "Start the Beginner Guide"
+    },
+    "secondaryLink": {
+      "label": "View on Steam",
+      "url": "https://store.steampowered.com/app/1488490/Nivalis_Nights/"
+    }
+  },
+  "sections": [
+    {
+      "id": "game-overview",
+      "heading": "What Is Nivalis Nights?",
+      "subsections": [
+        {
+          "heading": "Release, developer and where to play",
+          "paragraphs": [
+            "Nivalis Nights is developed by ION LANDS and published by 505 Games. The Steam listing gives September 29, 2026 as its release date and identifies it as a single-player PC game. Use that listing to check the current purchase options and system requirements before installing. Prices and offers depend on your region and can change, so check the store directly when making a purchase.",
+            "This website is an independent English guide. The View on Steam button opens the game's external store page; playing and purchasing happen there. For a returning player, Steam News is also the useful first stop after an update. Read the changes that affect your current objective before following older advice."
+          ]
+        },
+        {
+          "heading": "What you do in the city",
+          "paragraphs": [
+            "The core activities combine hospitality businesses with city life. Restaurants and nightclubs provide a reason to plan supplies and expansion, while conversations and story quests give your visits to different districts a purpose. Fishing and boat exploration make the waterfront part of your routine, and apartment decoration gives you a place to make your own.",
+            "Choose a goal for the session before moving between activities. Getting one venue working, learning a fishing input, and finding a quest ingredient are separate tasks with different success checks. Finish one of those loops first; it is easier to see progress when you can identify exactly what changed."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "quick-start",
+      "heading": "Nivalis Nights Quick Start",
+      "subsections": [
+        {
+          "heading": "Your first business and daily priorities",
+          "paragraphs": [
+            "Start by reading the opening objective and looking at the venue it refers to. Inspect the menu or recipe requirements, compare them with the supplies available to that venue, and identify the equipment the current task asks you to use. A useful early goal is to understand one working dish and its supply route before adding more responsibilities.",
+            "Make a short shopping list from the requirements shown in your save. Record the ingredient name and quantity, then check the merchant's current offer before buying. After the transaction, return to the venue or quest screen and confirm the intended requirement is satisfied. Keep enough money for the next necessary action rather than spending it all on optional decoration."
+          ]
+        },
+        {
+          "heading": "A beginner-friendly first session",
+          "paragraphs": [
+            "The following order is a suggested introduction, rather than a mandatory quest sequence. It keeps the business tutorial, travel, and a first side activity manageable. If your current journal already points somewhere else, follow that active instruction and use the matching guide below."
+          ],
+          "bullets": [
+            "Read the active tutorial objective and inspect the venue it names.",
+            "Check one recipe, its ingredients, and any equipment requirement.",
+            "Find the supplier for the missing item and confirm the purchase in your inventory.",
+            "Return to the business and check its supplies before exploring farther.",
+            "Learn a travel route to the Docks, then choose fishing or your active boat objective.",
+            "Save your progress before ending the session or changing your setup."
+          ],
+          "links": [
+            {
+              "slug": "guide-wiki",
+              "label": "Follow the beginner walkthrough",
+              "description": "A suggested starting order, supply checks, travel advice, and common mistakes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "popular-guides",
+      "heading": "Popular Nivalis Nights Guides",
+      "intro": "Pick the guide that matches your immediate obstacle. The beginner page connects the systems; the other four answer a specific item, action, installation, or quest question.",
+      "links": [
+        {
+          "slug": "guide-wiki",
+          "label": "Beginner Guide & Wiki",
+          "description": "Start with a practical first-session checklist. Learn how to read your menu, plan a supply trip, follow objectives, and choose the next activity without taking on everything at once."
+        },
+        {
+          "slug": "liquid-nitrogen",
+          "label": "Liquid Nitrogen Location",
+          "description": "Find the reported Chemistry Vendor route in the Industrial District, compare the Oil Rig alternative, and check the cocktail-ingredient objective before buying."
+        },
+        {
+          "slug": "fishing",
+          "label": "Fishing Guide",
+          "description": "Get the starting rod at the Docks, equip it from inventory, learn the reported PC bite cue, and work out why a cast is failing."
+        },
+        {
+          "slug": "mods",
+          "label": "Mods & Installation",
+          "description": "Browse real Nexus listings, compare loader requirements with your game build, back up your progress, and make an installation you can remove cleanly."
+        },
+        {
+          "slug": "seafaring",
+          "label": "Seafaring Quest",
+          "description": "Follow the boat introduction, Oil Rig search, scanner signals, and treasure-fishing checks. Match each action to the stage currently shown in your journal."
+        }
+      ]
+    },
+    {
+      "id": "gameplay-systems",
+      "heading": "Core Gameplay Systems",
+      "subsections": [
+        {
+          "heading": "Run and expand businesses",
+          "paragraphs": [
+            "Treat expansion as a supply problem as well as a property decision. Before committing to another venue, think through how you will obtain its ingredients and keep its menu usable. Read the costs and requirements displayed in the business interface, then decide whether you can support the addition alongside your existing operation.",
+            "A bigger business is not automatically a better next step for every save. If your present venue is waiting on supplies, resolve that first. Make changes one at a time and compare the result in the venue screen. That approach gives you a clearer explanation of a problem than changing recipes, staffing, and equipment together."
+          ]
+        },
+        {
+          "heading": "Fishing, boats and exploration",
+          "paragraphs": [
+            "The waterfront links several activities, but they have different goals. For a first catch, concentrate on equipping the rod and responding to the bite cue. For a treasure objective, you also need the current quest stage and the scanner's target area. Reaching the Oil Rig does not by itself mean a treasure step has completed.",
+            "Decide what a successful trip should produce before you leave: a fish for a request, an ingredient for a dish, a newly reached area, or the required quest item. Keep unusual catches until you have checked the active objective. Ordinary fishing practice belongs in the fishing guide; boat and treasure progression belongs in the Seafaring walkthrough."
+          ]
+        },
+        {
+          "heading": "Characters, choices and city life",
+          "paragraphs": [
+            "Take time to read conversations when an objective sends you to a resident. A reply can provide the context for the next trip, and a familiar location may have a different purpose after you advance a quest. The journal is the most useful place to compare what you remember with what your save currently asks you to do.",
+            "Home decoration offers another way to spend a session without rushing business expansion. Set a budget for optional purchases and keep the supplies for your immediate task separate. You can choose a quieter session of conversations and decorating, then return to the business or waterfront when you have a clear next objective."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "get-help",
+      "heading": "Where to Get Help When You Are Stuck",
+      "subsections": [
+        {
+          "heading": "Which guide answers which problem",
+          "paragraphs": [
+            "Write down the exact obstacle before searching. “I cannot cast” needs an equipment or input check; “I cannot catch the first treasure” needs a quest-stage and target check. Likewise, finding a merchant and obtaining the correct item are separate actions. Use the destination below to go straight to the relevant explanation."
+          ]
+        },
+        {
+          "heading": "Game updates and community references",
+          "paragraphs": [
+            "Check the date and game build when reading a community answer. A route description may depend on where the player arrived, and a mod's installation instructions may have changed since the game patched. Compare the advice with your visible prompts before altering a save or adding software.",
+            "For a persistent problem, gather a useful report: the current objective wording, the item you obtained, the area you are in, and the game build. Search the Steam discussions for that specific combination. For a mod issue, add the mod and loader versions and use the author's support page. Never post a whole save or diagnostic file without checking what personal information it contains."
+          ]
+        }
+      ],
+      "table": {
+        "caption": "Choose a guide by the obstacle",
+        "columns": [
+          "Your problem",
+          "Start here",
+          "What to check"
+        ],
+        "rows": [
+          [
+            "Unsure what to do first",
+            "Guide & Wiki",
+            "Tutorial objective, menu, supplies, and a suggested starting order"
+          ],
+          [
+            "Cannot find liquid nitrogen",
+            "Liquid Nitrogen",
+            "Chemistry Vendor identity, current stock, and active ingredient request"
+          ],
+          [
+            "Rod owned but no cast",
+            "Fishing",
+            "Equipped rod, fishable water, and current input prompt"
+          ],
+          [
+            "Mod missing or game crashes",
+            "Mods",
+            "Correct loader, author requirements, and one change at a time"
+          ],
+          [
+            "Boat trip or treasure step stalled",
+            "Seafaring",
+            "Active stage, scanner signal, bobber position, and return dialogue"
+          ]
+        ]
+      }
+    }
+  ],
+  "faq": [
+    {
+      "question": "What kind of game is Nivalis Nights?",
+      "answer": "It is a cyberpunk life and business simulation. You manage hospitality venues while exploring the city and spending time on activities such as fishing, conversations, and home decoration. Use the beginner guide to turn that broad set of options into a manageable first session."
+    },
+    {
+      "question": "When was Nivalis Nights released?",
+      "answer": "The official Steam store lists September 29, 2026. Check Steam News for subsequent updates, particularly before using an older gameplay tip or installing a mod that depends on a specific game build."
+    },
+    {
+      "question": "Where can I play Nivalis Nights?",
+      "answer": "The Steam store linked here is the PC purchase and installation destination. Check its current system requirements and available options for your setup. This fan website provides guides and does not host a playable copy of the game."
+    },
+    {
+      "question": "Is business management the main activity?",
+      "answer": "Running and expanding food venues and nightclubs is a central part of the game. Start with the supplies and requirements of your current venue, then choose when to branch into other activities rather than treating expansion as an immediate obligation."
+    },
+    {
+      "question": "Does Nivalis Nights have fishing?",
+      "answer": "Yes. For the practical starting route, visit the fishing guide: it covers the reported rod handoff at the Docks, inventory equipment action, PC casting inputs, and the bite cue. The Seafaring guide explains the separate treasure-fishing objective."
+    },
+    {
+      "question": "Where are the detailed wiki guides?",
+      "answer": "Use the five topic cards above or the navigation menu. Guide & Wiki covers the opening routine; Liquid Nitrogen covers the merchant search; Fishing covers catches and controls; Mods covers installation; Seafaring covers boat and treasure progression."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Official Steam store",
+      "url": "https://store.steampowered.com/app/1488490/Nivalis_Nights/",
+      "description": "Release information, developer, publisher, and game features."
+    },
+    {
+      "label": "505 Games FAQ on Steam",
+      "url": "https://steamcommunity.com/app/1488490/discussions/0/598530855994991183/",
+      "description": "Publisher background on businesses, travel, and city activities; originally published before release."
+    },
+    {
+      "label": "Steam News",
+      "url": "https://store.steampowered.com/news/app/1488490/",
+      "description": "Official announcements and update notes."
+    },
+    {
+      "label": "Steam community discussions",
+      "url": "https://steamcommunity.com/app/1488490/discussions/",
+      "description": "Player questions and troubleshooting."
+    },
+    {
+      "label": "Nexus Mods game hub",
+      "url": "https://www.nexusmods.com/games/nivalisnights",
+      "description": "Community mod listings and author documentation."
+    }
+  ],
+  "screenshots": [],
+  "lastReviewed": "2026-10-11"
+}

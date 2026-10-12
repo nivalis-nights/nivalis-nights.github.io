@@ -1,0 +1,31 @@
+# Dependencies and build output
+node_modules/
+.next/
+out/
+*.tsbuildinfo
+
+# Local environment variables
+.env*
+!.env.example
+
+# Local editor and operating system files
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Logs and caches
+*.log
+.cache/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local QA reports and release packages
+.playwright-cli/
+playwright-report/
+test-results/
+coverage/
+release/
+output/

@@ -1,0 +1,1241 @@
+[
+  {
+    "enabled": true,
+    "slug": "guide-wiki",
+    "pageType": "guide",
+    "navLabel": "Guide & Wiki",
+    "title": "Nivalis Nights Guide & Wiki: Beginner Walkthrough",
+    "description": "Start Nivalis Nights with a practical beginner walkthrough covering early business steps, supplies, city travel, fishing, quests, and links to focused guides.",
+    "navVisible": true,
+    "hero": {
+      "eyebrow": "Nivalis Nights / Guide & Wiki",
+      "heading": "Nivalis Nights Guide & Wiki",
+      "lead": "Start with your opening venue: read the objective, inspect the menu, compare recipe ingredients with available supplies, and check the equipment required for the next task. Learn how to replenish that venue before taking on another project. Then follow your current travel and quest prompts toward the Docks, where fishing and boat progression offer useful next goals. This Nivalis Nights guide suggests a manageable order for your first session; your journal determines the mandatory quest sequence. Use the topic directory when one specific action blocks your progress."
+    },
+    "sections": [
+      {
+        "id": "beginner-walkthrough",
+        "heading": "Nivalis Nights Beginner Walkthrough: Start Here",
+        "subsections": [
+          {
+            "heading": "First session checklist",
+            "paragraphs": [
+              "Work through the checklist below with one objective at a time. Keep the requirement you are solving visible or write down its exact wording before leaving the venue. The aim is to learn how an action becomes a completed objective, rather than to finish a fixed number of tasks within an hour."
+            ]
+          },
+          {
+            "heading": "Where to look when a tutorial objective stalls",
+            "paragraphs": [
+              "Return to the current objective before repeating a purchase or conversation. Compare the requested item with what you actually own, and distinguish carrying supplies from making them available to the business. If the task names equipment, inspect that requirement separately. A full personal inventory does not explain whether the venue can use its menu.",
+              "Use the relevant interaction prompt rather than guessing a key from another player's setup. If a step still fails, record which action worked and which success check did not. That makes it easier to search for a matching issue and prevents unnecessary spending on items you already have."
+            ]
+          }
+        ],
+        "steps": [
+          {
+            "heading": "Read the opening task",
+            "description": "Find the venue, person, or item named by the active objective and start there."
+          },
+          {
+            "heading": "Inspect one menu item",
+            "description": "Read its recipe and ingredient requirements before adding more dishes."
+          },
+          {
+            "heading": "Check supplies and equipment",
+            "description": "Compare the requirements with the venue screen and your inventory."
+          },
+          {
+            "heading": "Make a focused supply trip",
+            "description": "Buy the missing item and amount shown by your task; confirm it after trading."
+          },
+          {
+            "heading": "Return and verify progress",
+            "description": "Reopen the venue or journal and make sure the intended requirement changed."
+          },
+          {
+            "heading": "Choose one next activity",
+            "description": "Practice fishing or follow the current boat quest, then save your progress."
+          }
+        ]
+      },
+      {
+        "id": "first-business",
+        "heading": "Understand Your First Business",
+        "subsections": [
+          {
+            "heading": "Menu, recipes, ingredients and equipment",
+            "paragraphs": [
+              "Think of a dish as a chain of requirements. Knowing a recipe is one part; having its ingredients and the appropriate equipment is another. Inspect the menu you want to serve, then trace any unavailable requirement back to the shop, supply action, or tutorial instruction that can resolve it.",
+              "For your first shopping run, group purchases around the dishes you already intend to use. Avoid buying an unfamiliar ingredient simply because a guide mentions it. You will learn more from getting one menu item working and confirming the result than from collecting supplies without a plan."
+            ]
+          },
+          {
+            "heading": "Restocking, staff and keeping costs under control",
+            "paragraphs": [
+              "Recheck the venue's supplies after a period of operation and before a longer trip. Keep a list of recurring ingredients so you can distinguish a routine restock from a one-time quest purchase. If staffing controls are available in your save, read the assignment and cost displayed there before relying on them.",
+              "A sensible beginner rule is to reserve money for the next required supply or travel action. Treat new equipment, another venue, and decoration as separate decisions. Compare what you can sustain now with what you want later, without assuming a fixed profit or a universally best upgrade."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "city-travel",
+        "heading": "Learn the City and Travel Routes",
+        "subsections": [
+          {
+            "heading": "District access, waypoints and quests",
+            "paragraphs": [
+              "The publisher describes taxi travel between districts and freely explorable areas within the city. Read the destination at the travel point and compare it with the area named in your objective. If a route is unavailable, check the restriction shown in your save before planning purchases on the other side.",
+              "Landmark descriptions help you orient yourself but depend on the starting viewpoint. A player's “right-hand fork” may be different if you arrived elsewhere. Prefer a named district, merchant label, or destination prompt over an isolated left-or-right instruction."
+            ]
+          },
+          {
+            "heading": "Getting to the Docks and beginning fishing",
+            "paragraphs": [
+              "For the reported starting fishing route, look for a taxi destination to the Docks. The community guide places a useful taxi on the southwest side of Meridian Market. At the Docks, follow the ramps toward the pier and look for Boardwalk Ady. After the conversation, check your inventory for the rod and equip it before casting."
+            ],
+            "links": [
+              {
+                "slug": "fishing",
+                "label": "Learn the rod, casting input, and bite cue"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "after-tutorial",
+        "heading": "What to Do After the Opening Tutorial",
+        "subsections": [
+          {
+            "heading": "Fishing for ingredients and progress",
+            "paragraphs": [
+              "Choose a catch objective before spending a long session at the water. A request for a named fish, a menu ingredient, and a treasure item need different checks. For an ordinary first catch, practice equipment and timing; afterward, compare the fish with the requirement you are trying to satisfy."
+            ]
+          },
+          {
+            "heading": "Boat and Seafaring quest progression",
+            "paragraphs": [
+              "When your journal directs you to Salt Pete at the Docks, follow that stage before heading offshore. The boat introduction and treasure search are separate parts of Seafaring. Read the current instruction after discovering an area or returning to a character so that an earlier objective does not send you in circles."
+            ],
+            "links": [
+              {
+                "slug": "seafaring",
+                "label": "Follow the Seafaring boat and treasure stages"
+              }
+            ]
+          },
+          {
+            "heading": "Finding special ingredients",
+            "paragraphs": [
+              "Some requests need a specialist supplier. For liquid nitrogen, players identify Chemistry Vendors in the Industrial District and at the Oil Rig. Start with an area you can already reach, confirm the seller's label, and check the actual offers. Use your active request to decide how much to purchase."
+            ],
+            "links": [
+              {
+                "slug": "liquid-nitrogen",
+                "label": "Find the reported liquid nitrogen merchants"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "wiki-directory",
+        "heading": "Nivalis Nights Wiki: Topic Directory",
+        "subsections": [
+          {
+            "heading": "Gameplay systems and beginner questions",
+            "paragraphs": [
+              "Use this walkthrough for the connections between activities. For a narrow obstacle, open the matching topic below and return here when you are ready to choose the next goal. The game overview covers the release and broad feature set; the task guides concentrate on what to do in your save."
+            ],
+            "links": [
+              {
+                "slug": "",
+                "label": "Nivalis Nights game overview"
+              },
+              {
+                "slug": "fishing",
+                "label": "Fishing: get equipped and make a catch"
+              },
+              {
+                "slug": "seafaring",
+                "label": "Seafaring: navigate the current quest stage"
+              }
+            ]
+          },
+          {
+            "heading": "Mods, community improvements and update compatibility",
+            "paragraphs": [
+              "Mods are optional additions. Learn the unmodified controls and keep a separate backup before installing one. Read the current author requirements, especially after a game update, and test one change at a time. The mods guide links to real listings and explains how to return to a clean setup."
+            ],
+            "links": [
+              {
+                "slug": "mods",
+                "label": "Read the mod installation and compatibility guide"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "beginner-mistakes",
+        "heading": "Common Beginner Mistakes and How to Fix Them",
+        "intro": "These checks follow the distinctions in the publisher FAQ and the linked community guidance: supplies need a purpose, equipment needs to be active, and quest actions need the correct stage.",
+        "table": {
+          "caption": "A practical beginner diagnosis",
+          "columns": [
+            "Obstacle",
+            "Check first",
+            "Next action"
+          ],
+          "rows": [
+            [
+              "Menu cannot support the planned dish",
+              "Recipe, venue supplies, and equipment",
+              "Resolve the missing requirement before adding another dish."
+            ],
+            [
+              "Bought an item but task has not advanced",
+              "Exact item name and current objective",
+              "Check the inventory and revisit the required venue or person."
+            ],
+            [
+              "Rod is owned but casting does nothing",
+              "Rod equipment action",
+              "Open inventory and select the hand action for the rod."
+            ],
+            [
+              "Boat exploration leads to unrelated catches",
+              "Active Seafaring stage and target",
+              "Follow the scanner and cast into the indicated area."
+            ],
+            [
+              "Directions do not match the street",
+              "Arrival point and merchant label",
+              "Use the named landmark and seller identity to reorient."
+            ]
+          ]
+        }
+      }
+    ],
+    "faq": [
+      {
+        "question": "What should I do first in Nivalis Nights?",
+        "answer": "Read the opening objective, inspect the venue it names, and make one menu item's requirements understandable. Use the checklist as a suggested routine; continue following the actual journal when it specifies a different order."
+      },
+      {
+        "question": "Where should I buy ingredients?",
+        "answer": "Start with the ingredient named in your recipe or task, then inspect the appropriate merchant's current stock. Buy for a purpose and confirm the transaction. Specialist items such as liquid nitrogen have their own merchant route guide."
+      },
+      {
+        "question": "How do I begin fishing?",
+        "answer": "The community starting route goes to Boardwalk Ady at the Docks for the Rusty Fishing Rod. Equip it from inventory before casting. The fishing page covers the reported PC input and the amber bite cue."
+      },
+      {
+        "question": "How do I know which quest step comes next?",
+        "answer": "Read the current journal after each important action or conversation. A new-area discovery, a caught item, and a return dialogue can be different requirements. Match the walkthrough to the stage shown in your own save."
+      },
+      {
+        "question": "Do I need mods to follow this guide?",
+        "answer": "No. Begin with the base game. If you choose a community mod later, compare its requirements with your build, keep backups, and follow the author's installation instructions rather than assuming every mod uses the same setup."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Official Steam store",
+        "url": "https://store.steampowered.com/app/1488490/Nivalis_Nights/"
+      },
+      {
+        "label": "505 Games gameplay FAQ",
+        "url": "https://steamcommunity.com/app/1488490/discussions/0/598530855994991183/"
+      },
+      {
+        "label": "Fishing route and controls by Aaron Goldberg",
+        "url": "https://tposegaming.com/nivalis-nights-fishing/"
+      },
+      {
+        "label": "Seafaring community quest reference",
+        "url": "https://nivalis-nights.com/wiki/quests/seafaring/"
+      },
+      {
+        "label": "Steam liquid nitrogen merchant discussion",
+        "url": "https://steamcommunity.com/app/1488490/discussions/0/583935635494086567/"
+      }
+    ],
+    "relatedSlugs": [
+      "fishing",
+      "seafaring",
+      "liquid-nitrogen"
+    ],
+    "lastReviewed": "2026-10-11"
+  },
+  {
+    "enabled": true,
+    "slug": "liquid-nitrogen",
+    "pageType": "guide",
+    "navLabel": "Liquid Nitrogen",
+    "title": "Nivalis Nights Liquid Nitrogen: Where to Buy & Use",
+    "description": "Find liquid nitrogen in Nivalis Nights with reported chemistry vendor locations, Industrial District directions, quest context, and practical stock-check tips.",
+    "navVisible": true,
+    "hero": {
+      "eyebrow": "Nivalis Nights / Liquid Nitrogen",
+      "heading": "Nivalis Nights Liquid Nitrogen Location & Uses",
+      "lead": "For liquid nitrogen in Nivalis Nights, start with a Chemistry Vendor in the Industrial District. Steam players describe a narrow alley with red neon, a small counter, and a nearby car shop. The same discussion also names a Chemistry Vendor at the Oil Rig as an alternative. Visit an area you can reach, identify the seller, and inspect the current stock before buying. The Business Empire community quest reference includes a cocktail-ingredient request for liquid nitrogen; use your active journal to confirm the amount and the person expecting the ingredients."
+    },
+    "sections": [
+      {
+        "id": "buy-liquid-nitrogen",
+        "heading": "Where to Buy Liquid Nitrogen in Nivalis Nights",
+        "subsections": [
+          {
+            "heading": "Industrial District chemistry vendor",
+            "paragraphs": [
+              "Steam players point to a Chemistry Vendor in the Industrial District. One route starts from fast travel and follows the right-hand fork toward a car shop; another identifies a narrow alley with red neon overhead, a counter on the left, and graffiti opposite. Use the merchant label to confirm the location rather than treating a relative direction as universal.",
+              "Begin from a travel point available in your save and keep the car-shop clue in mind as you inspect nearby passages. You are looking for a specialist seller, so check the identity displayed when you approach. A familiar food retailer in the same district may have a different inventory. Open the Chemistry Vendor's offers and look for the exact item name."
+            ]
+          },
+          {
+            "heading": "Oil Rig alternative",
+            "paragraphs": [
+              "Another player in the Steam merchant discussion reports liquid nitrogen at the Oil Rig Chemistry Vendor. A separate Reddit report describes the southwest side around the middle of the rig. Treat that as an alternative shopping lead when you already have access to the area, then confirm the seller and stock there.",
+              "Choose between the two leads based on the routes you can use now. Check the displayed travel restrictions before committing to a long detour. The presence of a reported seller does not establish a fixed price, a required boat route, or a stock-refresh schedule for every saved game."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "merchant-checklist",
+        "heading": "How to Find the Correct Merchant",
+        "subsections": [
+          {
+            "heading": "Quick location checklist",
+            "paragraphs": [
+              "The final check is a successful purchase and the correct item in your inventory. Finding an alley, a neon sign, or an industrial-looking shop is only an orientation step. Work through these checks in order so you can identify where a shopping trip has gone wrong."
+            ]
+          },
+          {
+            "heading": "What if the vendor does not show the ingredient?",
+            "paragraphs": [
+              "First check that the displayed merchant identity is Chemistry Vendor. Inspect the offers, scroll the list, and clear a search or category filter if the interface provides one. Compare the spelling with the item requested by your journal. If it is still absent, consider the other reported merchant if that area is accessible.",
+              "Before spending time waiting, check whether the game itself explains a stock or access restriction. A repeated wait is not a useful plan without a visible refresh rule. Keep a note of the district, seller, and current game build if you ask the community for an updated route."
+            ]
+          }
+        ],
+        "steps": [
+          {
+            "heading": "Choose an accessible area",
+            "description": "Use the Industrial District lead first, or the Oil Rig if it is already convenient."
+          },
+          {
+            "heading": "Find the landmarks",
+            "description": "Look near the car-shop route and red-neon alley, adjusting for your arrival direction."
+          },
+          {
+            "heading": "Identify the seller",
+            "description": "Approach and check the Chemistry Vendor label."
+          },
+          {
+            "heading": "Inspect the offers",
+            "description": "Find Liquid Nitrogen by name; review available quantity and the displayed price."
+          },
+          {
+            "heading": "Buy for your current task",
+            "description": "Use the amount in your active journal or recipe, then confirm the item in inventory."
+          }
+        ]
+      },
+      {
+        "id": "liquid-nitrogen-uses",
+        "heading": "What Is Liquid Nitrogen Used For?",
+        "subsections": [
+          {
+            "heading": "Cocktail / Business Empire quest context",
+            "paragraphs": [
+              "The community Business Empire reference places liquid nitrogen in a cocktail-ingredient sequence associated with Lily Nightingale. That is useful context if the ingredient search began with a business objective. Read your active step before assuming that buying the item alone finishes the request.",
+              "If your journal asks for a set of ingredients, keep the full list together. Confirm the other requested items as well as the liquid nitrogen, then return to the named character when instructed. A purchase, collection objective, and ingredient handoff are separate checks; completing one may leave the next still active."
+            ]
+          },
+          {
+            "heading": "What to check in your active quest journal and inventory",
+            "paragraphs": [
+              "Compare three details before another shopping trip: the exact item name, the required amount, and the destination for the handoff. If the item is already present, reread the current stage rather than buying more automatically. If the task asks you to speak to someone, inspect the relevant conversation option after collecting the ingredients.",
+              "This shopping route is separate from the Seafaring treasure hunt. The Oil Rig appears as a location lead in both contexts, but a Chemistry Vendor purchase should not be confused with a scanner target or a fishing catch."
+            ],
+            "links": [
+              {
+                "slug": "guide-wiki",
+                "label": "Review the beginner supply and quest checks"
+              },
+              {
+                "slug": "",
+                "label": "Return to the Nivalis Nights overview"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "vendor-comparison",
+        "heading": "Locations and Claims Compared",
+        "intro": "The original reports provide directions, while your own trade window supplies the final stock and price check. Keep those roles separate when planning a route.",
+        "table": {
+          "caption": "Merchant leads and their success checks",
+          "columns": [
+            "Source",
+            "Reported area",
+            "What to verify in your save"
+          ],
+          "rows": [
+            [
+              "Steam merchant discussion",
+              "Industrial District, near the car-shop fork and red-neon alley",
+              "Seller identity and Liquid Nitrogen in the offer list"
+            ],
+            [
+              "Steam merchant discussion",
+              "Oil Rig Chemistry Vendor",
+              "Current access, item availability, and displayed price"
+            ],
+            [
+              "Reddit shopping discussion",
+              "Oil Rig, southwest side around the middle",
+              "Whether the landmark description matches your arrival"
+            ],
+            [
+              "Business Empire quest reference",
+              "Cocktail ingredients for Lily Nightingale",
+              "Your active stage, required amount, and handoff instruction"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "nitrogen-troubleshooting",
+        "heading": "Liquid Nitrogen Troubleshooting",
+        "paragraphs": [
+          "Diagnose the failed check before repeating the whole trip. If you cannot reach the district, solve the travel restriction. If you reached a shop but its label is different, continue the merchant search. If the seller is correct but the offer is absent, inspect the filters and stock rather than assuming every nearby retailer carries the item.",
+          "After purchasing, check both the inventory and journal. If a collection stage changed to a delivery stage, the shopping trip worked: follow the next instruction. If the objective still lists missing cocktail ingredients, compare the whole list. Save a clear description of the remaining obstacle before looking for a patch-specific discussion."
+        ],
+        "table": {
+          "caption": "Shopping and quest checks",
+          "columns": [
+            "Problem",
+            "Next check"
+          ],
+          "rows": [
+            [
+              "District cannot be reached",
+              "Read the travel restriction and continue the relevant current objective."
+            ],
+            [
+              "Car-shop directions do not fit",
+              "Use the red-neon alley and merchant label rather than a fixed camera direction."
+            ],
+            [
+              "Ingredient not displayed",
+              "Check seller identity, filters, and current offers; try the accessible alternative."
+            ],
+            [
+              "Item bought, objective incomplete",
+              "Compare the inventory item, amount, other ingredients, and required return dialogue."
+            ],
+            [
+              "Price differs from a guide",
+              "Use the current trade window before approving the purchase."
+            ]
+          ]
+        }
+      }
+    ],
+    "faq": [
+      {
+        "question": "Where can I buy liquid nitrogen in Nivalis Nights?",
+        "answer": "Steam players identify Chemistry Vendors in the Industrial District and at the Oil Rig. Start with an accessible location and confirm Liquid Nitrogen in the merchant's current offers before buying."
+      },
+      {
+        "question": "Which shop should I look for in the Industrial District?",
+        "answer": "Look for a seller labeled Chemistry Vendor. The Steam route clues include a car shop, a narrow alley, red neon overhead, a small counter, and graffiti. Use the label as the final check."
+      },
+      {
+        "question": "Is the Industrial District the only reported seller?",
+        "answer": "No. The Steam discussion also reports an Oil Rig Chemistry Vendor, and a Reddit reply provides a southwest-side landmark clue. Check your access and the merchant's inventory before choosing that alternative."
+      },
+      {
+        "question": "Which quest uses liquid nitrogen?",
+        "answer": "The community Business Empire reference includes it in Lily Nightingale's cocktail-ingredient sequence. Read your current journal to confirm that stage, the requested amount, and any remaining ingredients or return conversation."
+      },
+      {
+        "question": "What should I do if liquid nitrogen is not in stock?",
+        "answer": "Check the merchant label and any offer filters first. If the item is still absent, inspect the other reported seller when accessible. Follow a refresh rule only if the game displays one; avoid buying substitutes or waiting for an assumed schedule."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Steam: liquid nitrogen merchant reports",
+        "url": "https://steamcommunity.com/app/1488490/discussions/0/583935635494086567/",
+        "description": "Industrial District landmarks and an Oil Rig alternative."
+      },
+      {
+        "label": "Reddit: Oil Rig shopping report",
+        "url": "https://www.reddit.com/r/NivalisNights/comments/1wusil8/where_to_get_liquid_nitrogen/"
+      },
+      {
+        "label": "Business Empire community quest reference",
+        "url": "https://nivalis-nights.com/wiki/quests/business-empire/",
+        "description": "Cocktail-ingredient collection and handoff context."
+      }
+    ],
+    "relatedSlugs": [
+      "guide-wiki"
+    ],
+    "lastReviewed": "2026-10-11"
+  },
+  {
+    "enabled": true,
+    "slug": "fishing",
+    "pageType": "guide",
+    "navLabel": "Fishing",
+    "title": "Nivalis Nights Fishing Guide: Rod, Controls & Fish",
+    "description": "Learn how to fish in Nivalis Nights: find your first rod, equip it, cast and reel on PC, troubleshoot missed bites, and explore fish and boat progression.",
+    "navVisible": true,
+    "hero": {
+      "eyebrow": "Nivalis Nights / Fishing",
+      "heading": "Nivalis Nights Fishing Guide: How to Fish",
+      "lead": "To begin fishing in Nivalis Nights, visit Boardwalk Ady at the Docks for the reported starting rod, then equip it from inventory using the hand action. On the reported PC controls, press I to open inventory and left-click to cast toward water. Wait for the face icon to turn amber, then left-click again to reel in. Check your current prompts if your bindings differ. For a treasure objective, placing the bobber inside the marked target matters as well as making a successful catch; follow the Seafaring guide for that quest stage."
+    },
+    "sections": [
+      {
+        "id": "how-to-fish",
+        "heading": "How to Fish in Nivalis Nights (Quick Steps)",
+        "steps": [
+          {
+            "heading": "Get a fishing rod at the Docks",
+            "description": "Travel to the Docks and look for Boardwalk Ady on the pier beyond the trawler and small rowboat. The community starting guide describes receiving a Rusty Fishing Rod from the conversation. Check inventory afterward."
+          },
+          {
+            "heading": "Equip your rod and cast",
+            "description": "Open inventory, commonly I on PC, select the rod's hand action, and face fishable water. The reported mouse input is left-click to cast. Check the current prompt for your setup."
+          },
+          {
+            "heading": "Recognize a bite and reel in",
+            "description": "Watch the fishing face icon after casting. The reported amber state means something is hooked; left-click again to reel. Check the catch and your active objective before starting another cast."
+          }
+        ],
+        "paragraphs": [
+          "Use the first few casts to learn the sequence rather than to pursue a rare fish. Make sure each action has a visible result: the rod is equipped, the cast enters the water, the waiting state appears, and the catch result changes. If one of those checks fails, work on that step before changing locations.",
+          "The starting guide is a community account of PC controls. Your key bindings and interface prompts take priority, especially after an update or when using a controller. Avoid pressing several inputs repeatedly while waiting; that makes it harder to distinguish a cancelled attempt from a missed bite."
+        ]
+      },
+      {
+        "id": "pc-controls",
+        "heading": "Fishing Controls on PC",
+        "table": {
+          "caption": "Reported PC inputs and fishing feedback",
+          "columns": [
+            "Action or cue",
+            "Reported input or meaning",
+            "Check in game"
+          ],
+          "rows": [
+            [
+              "Open inventory",
+              "I",
+              "Your current inventory binding"
+            ],
+            [
+              "Equip rod",
+              "Hand icon beside the rod",
+              "Rod active before the cast"
+            ],
+            [
+              "Cast / reel",
+              "Left mouse button",
+              "Use the current fishing prompt"
+            ],
+            [
+              "Blue face icon",
+              "Waiting for a bite",
+              "Wait for the state to change"
+            ],
+            [
+              "Amber face icon",
+              "Something hooked",
+              "Reel at the bite cue"
+            ],
+            [
+              "Yellow-green / red result",
+              "Successful / failed catch",
+              "Read the catch result and inventory"
+            ]
+          ]
+        },
+        "subsections": [
+          {
+            "heading": "Common control mistakes",
+            "paragraphs": [
+              "Owning a rod does not mean it is equipped. If you received one but cannot cast, reopen inventory and inspect the hand action beside it. Then close the inventory and face the water before trying the fishing input. Check the current binding if left-click is assigned differently in your setup.",
+              "Reeling before the bite cue can interrupt the attempt. Watch the indicator rather than using a guessed delay from another player. A successful result may be a fish or salvage; it does not guarantee the species or treasure requested by your current task."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "fishing-locations",
+        "heading": "Where to Fish and What Changes Your Catch",
+        "subsections": [
+          {
+            "heading": "Fishing from docks and other accessible water",
+            "paragraphs": [
+              "Begin at accessible water near the Docks so you can practice the equipment and bite sequence without adding boat navigation. The starting community guide names the boardwalk and nearby canals. Once you can make a catch reliably, choose a destination based on your current request instead of moving randomly between districts.",
+              "A marked water target is useful when the task or visible activity points you there. Place the cast into that area and inspect the resulting catch. If you are aboard a boat, distinguish the place you park from the place the bobber lands; that distinction becomes especially important during Seafaring."
+            ]
+          },
+          {
+            "heading": "Fish conditions, weather and time",
+            "paragraphs": [
+              "For a named-fish request, check any condition information shown in your fish journal and compare it with the area, weather, and time of your session. Keep notes on those conditions alongside the actual catch. That is more useful than assuming a location always produces the same result.",
+              "Start with the fish your current request names. Burbot, Pike, and Stickleback appear in the community starting guide, but a successful cast is not a guaranteed catch of one of them. If you consult a longer community fish table, compare its date and conditions with your current build before planning a long trip around it."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "use-your-catch",
+        "heading": "What to Do with Your Catch",
+        "subsections": [
+          {
+            "heading": "Ingredients, selling fish and related progress",
+            "paragraphs": [
+              "The publisher FAQ connects fishing with restaurant supplies and selling catches. Decide which purpose matters before disposing of a fish. Compare a catch with the recipe or active request first, then inspect the current buyer offer if you intend to sell it. The value you see in one screen need not answer what a particular buyer offers.",
+              "Check the condition of an ingredient before planning a supply run around it. A catch reserved for a task should stay separate from stock you intend to sell. Read your inventory and venue screens after moving supplies so you can confirm where the fish will be used."
+            ]
+          },
+          {
+            "heading": "Fishing-related tasks and the Underground Fish Market",
+            "paragraphs": [
+              "The starting guide describes returning to Ady after a catch and receiving a fish request that leads to the Underground Fish Market. Use the names and amounts in your active journal rather than carrying an arbitrary pile of fish. After a handoff, read the updated objective to see whether another conversation or action is required."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "boat-fishing",
+        "heading": "Fishing by Boat and the Seafaring Connection",
+        "subsections": [
+          {
+            "heading": "When the boat matters",
+            "paragraphs": [
+              "Boat travel brings offshore objectives into reach, while the rod retrieves what you find there. For Seafaring, follow the current boat introduction and scanner instructions before treating the Oil Rig as a fishing destination. If the active step says to return to Salt Pete, finish that conversation before resuming a search.",
+              "For the treasure-fishing stage, Steam players emphasize the bobber's position inside the green circle. Keep unusual catches until you have compared them with the journal. The related walkthrough explains the stage checks without requiring you to guess from the boat's position alone."
+            ],
+            "links": [
+              {
+                "slug": "seafaring",
+                "label": "Continue with the Seafaring boat and treasure guide"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "fishing-fixes",
+        "heading": "Fishing Problems and Fixes",
+        "intro": "Separate an input failure, an unsuccessful catch, and an incomplete objective. Each needs a different next check.",
+        "table": {
+          "caption": "Find the failing part of the fishing loop",
+          "columns": [
+            "Problem",
+            "Next action"
+          ],
+          "rows": [
+            [
+              "No rod in hand",
+              "Open inventory and use the equipment action for the rod."
+            ],
+            [
+              "Cast does not enter water",
+              "Face accessible water and check the current input prompt."
+            ],
+            [
+              "Catch fails repeatedly",
+              "Watch for the amber bite cue rather than clicking at a guessed interval."
+            ],
+            [
+              "Wrong fish for a request",
+              "Compare the requested species and any displayed conditions with your location."
+            ],
+            [
+              "Treasure search gives ordinary catches",
+              "Check the active stage and put the bobber inside the marked target."
+            ],
+            [
+              "Caught item but quest unchanged",
+              "Inspect the item name and the required return dialogue."
+            ]
+          ]
+        },
+        "links": [
+          {
+            "slug": "guide-wiki",
+            "label": "Review the beginner inventory and objective checks"
+          },
+          {
+            "slug": "",
+            "label": "Browse all Nivalis Nights guides"
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "How do I start fishing in Nivalis Nights?",
+        "answer": "Visit Boardwalk Ady at the Docks for the community-reported starting rod, equip it from inventory, and cast into accessible water. Watch for the bite cue before reeling."
+      },
+      {
+        "question": "Where is the first fishing rod?",
+        "answer": "The starting community guide places Boardwalk Ady on the Docks pier beyond a trawler and small rowboat. It describes receiving the Rusty Fishing Rod from him. Confirm the item in inventory after talking."
+      },
+      {
+        "question": "What are the PC fishing controls?",
+        "answer": "The reported controls are I for inventory, the rod's hand icon to equip, and left-click to cast and reel. The amber face icon is the reported bite cue. Your current bindings and prompts take priority."
+      },
+      {
+        "question": "Do weather and time matter when finding fish?",
+        "answer": "Check the conditions listed for the fish you need in the current journal or a current community reference. Record your area, weather, and time when comparing catches; do not assume every species is available at every spot."
+      },
+      {
+        "question": "Do I need a boat for my first catch?",
+        "answer": "The starting guide describes fishing from the boardwalk and canals near the Docks. Learn the equipment and timing there before adding navigation. Offshore treasure objectives involve a separate boat and quest progression."
+      },
+      {
+        "question": "Why does treasure fishing not advance Seafaring?",
+        "answer": "Check the active quest stage and the bobber inside the marked target, then compare the caught item with the request. A normal fish or unrelated salvage can be a successful catch without satisfying the treasure objective."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Aaron Goldberg: starting fishing route and controls",
+        "url": "https://tposegaming.com/nivalis-nights-fishing/"
+      },
+      {
+        "label": "Steam: treasure fishing and bobber discussion",
+        "url": "https://steamcommunity.com/app/1488490/discussions/0/583935635494110111/"
+      },
+      {
+        "label": "505 Games FAQ: catches, supplies, and selling",
+        "url": "https://steamcommunity.com/app/1488490/discussions/0/598530855994991183/"
+      },
+      {
+        "label": "Community fishing conditions reference",
+        "url": "https://nivalisnightss.wiki/help/fishing-guide/"
+      }
+    ],
+    "relatedSlugs": [
+      "seafaring",
+      "guide-wiki"
+    ],
+    "lastReviewed": "2026-10-11",
+    "howToSectionId": "how-to-fish"
+  },
+  {
+    "enabled": true,
+    "slug": "mods",
+    "pageType": "guide",
+    "navLabel": "Mods",
+    "title": "Nivalis Nights Mods: Download, Install & Fixes",
+    "description": "Browse real Nivalis Nights mods on Nexus Mods, learn BepInEx and mod manager basics, check update compatibility, and fix or remove broken installs safely.",
+    "navVisible": true,
+    "hero": {
+      "eyebrow": "Nivalis Nights / Mods",
+      "heading": "Nivalis Nights Mods: Install & Compatibility Guide",
+      "lead": "Nivalis Nights mods are listed on the game's Nexus Mods hub. Begin with an individual author's page, read Requirements and installation instructions, and compare them with your Steam build before downloading. Back up your saves and make one change at a time. Some current plugins require BepInEx 6 IL2CPP; that is a mod-specific requirement, rather than a reason to install any loader you find. The examples below link directly to their authors, with a review date of October 11, 2026. Downloads and support remain on Nexus Mods."
+    },
+    "sections": [
+      {
+        "id": "download-mods",
+        "heading": "Where to Download Nivalis Nights Mods",
+        "subsections": [
+          {
+            "heading": "Nexus Mods game hub and authentic mod pages",
+            "paragraphs": [
+              "Use the game-specific Nexus hub to find a listing, then open the author's description, Files, Requirements, and recent posts. Check that the page is for Nivalis Nights and that the file matches the described installation. A hub listing establishes that a mod exists; the author's current instructions determine whether it fits your setup.",
+              "Keep the original page bookmarked so you can return for an update or uninstall instructions. Download the file linked by the author rather than a repack from an unrelated mirror. Read any warnings about conflicts before combining plugins, and avoid treating an endorsement count as a compatibility check."
+            ]
+          },
+          {
+            "heading": "Mod categories players actually use",
+            "paragraphs": [
+              "The following are real listings reviewed on October 11, 2026. They cover settings management, performance, and saving. These are examples to inspect, rather than a ranked list or a claim that every file has been tested on your PC. The version on the author's page may change after this review."
+            ]
+          }
+        ],
+        "table": {
+          "caption": "Real Nexus listings reviewed October 11, 2026",
+          "columns": [
+            "Mod",
+            "Author",
+            "Purpose and current notes"
+          ],
+          "rows": [
+            [
+              "Nivalis ModDeck",
+              "Voynicch",
+              "In-game BepInEx settings interface; F8 opens it. Author describes update #4 support."
+            ],
+            [
+              "Nivalis Performance Fix",
+              "hoho92",
+              "Crowded-area performance plugin; author requires BepInEx 6 IL2CPP."
+            ],
+            [
+              "Auto Save",
+              "pineapple54",
+              "Timed saving and additional save triggers; inspect current setup and requirements."
+            ]
+          ]
+        }
+      },
+      {
+        "id": "before-installing",
+        "heading": "Before Installing Any Mod",
+        "subsections": [
+          {
+            "heading": "Back up saves and know your game build",
+            "paragraphs": [
+              "Make a separate copy of the saves you intend to use and record where you kept it. Use a save location documented for your installation rather than copying a path from a different game. Confirm that the backup exists before altering files, and keep it separate from the folder you are about to modify.",
+              "Record the game build, mod version, loader version, and installation method together. If something stops working after a patch, that small record tells you which combination changed. Start with a save you can recover and keep the first test short enough that you can inspect the result before continuing a long session."
+            ]
+          },
+          {
+            "heading": "Understand BepInEx 6 / IL2CPP and dependencies",
+            "paragraphs": [
+              "ModDeck's author specifies BepInEx 6 IL2CPP and reports testing with build 6.0.0-be.788. Performance Fix also links to build 788. Follow those current requirements for those plugins; loader major version and runtime matter. Use the dependency link supplied on the mod page and compare it with what is already installed.",
+              "Avoid adding a second loader simply because two guides use different names. Read whether a requirement replaces an older component or supplements it. When instructions are ambiguous, stop before merging files and ask on the author's support page with your recorded versions."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "install-mods",
+        "heading": "How to Install Nivalis Nights Mods",
+        "subsections": [
+          {
+            "heading": "Choose a mod and read its requirements",
+            "paragraphs": [
+              "Pick one change that solves a problem you can observe, such as a settings menu or a saving feature. Read the whole installation and removal section before extracting the archive. Inspect the archive's folder structure and match its destination to the author's instructions so that files do not end up in an extra nested folder."
+            ]
+          },
+          {
+            "heading": "Manual installation vs Vortex/collection where supported",
+            "paragraphs": [
+              "For a manual plugin, follow the author's destination and dependency steps exactly. ModDeck describes extracting into the game folder so its DLL resides under BepInEx/plugins/NivalisModDeck. Close the game before an update or removal. That example does not establish the destination for every other mod.",
+              "For Vortex or a collection, check that the current game support or extension and the collection instructions explicitly cover your installation. Review its included files and requirements before deployment. A collection can introduce several dependencies at once, so keep a list of what it adds and how its author recommends removing it."
+            ]
+          },
+          {
+            "heading": "Confirm it loaded",
+            "paragraphs": [
+              "Launch a short test and use the author's documented indicator. For ModDeck, the author says F8 opens its window. For another plugin, look for the stated menu, behavior, or loader-log entry. Do not assume a copied file loaded simply because the game reached the title screen.",
+              "Test the specific behavior you installed the mod for, then save only after you are satisfied with the result. Keep the previous backup. If a plugin is absent, inspect the folder and dependency versions before installing another copy."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "managers-compatibility",
+        "heading": "Mod Managers and Compatibility",
+        "subsections": [
+          {
+            "heading": "Nexus Vortex extensions and collections",
+            "paragraphs": [
+              "Use the manager documentation for the installed game support and its current deployment method. Check the target game folder before deploying, and review warnings about missing requirements or conflicting files. If a collection page is unavailable, return to individual author pages rather than assuming its instructions or contents.",
+              "Keep manual and managed installations understandable. Record which files you added yourself, because a manager cannot necessarily remove everything outside its own deployment record. When changing methods, follow the supported purge or removal steps first and inspect the remaining files before reinstalling."
+            ]
+          },
+          {
+            "heading": "In-game ModDeck and author-specified tools",
+            "paragraphs": [
+              "ModDeck provides a settings interface for loaded BepInEx plugins and a warnings view for known conflicts. Its author explains that it does not toggle mods on or off while the game is running. Some settings need a restart to take effect. Read the plugin's own description before treating a live setting change as a complete test.",
+              "A missing warning is not proof that all installed mods are compatible. Close the game and use the supported removal process when testing without a plugin. If upgrading from the older manager described by the ModDeck author, follow the migration instructions to avoid loading both versions."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "mod-troubleshooting",
+        "heading": "Troubleshooting: Crashes, Missing Menus, and Updates",
+        "subsections": [
+          {
+            "heading": "Mod does not appear / dependency missing",
+            "paragraphs": [
+              "Check the author's load indicator, the final folder location, and the required loader/runtime. An archive may contain an extra parent folder, so compare the installed path with the instructions. Read the relevant loader log for the named plugin and dependency errors, then seek support with the versions you recorded."
+            ]
+          },
+          {
+            "heading": "Game patched: test, disable, update, restore",
+            "paragraphs": [
+              "After an update, read the game notes and mod changelog before continuing an important save. Test a recoverable copy. If a problem begins, close the game, disable or remove the most recent addition using its documented method, and test again. Change one variable at a time so you can identify which combination fails."
+            ]
+          }
+        ],
+        "table": {
+          "caption": "Compatibility diagnosis",
+          "columns": [
+            "Symptom",
+            "Useful next check"
+          ],
+          "rows": [
+            [
+              "Menu missing",
+              "Author's open key, plugin destination, and loader log"
+            ],
+            [
+              "Startup failure",
+              "Correct runtime and dependencies; test without the newest addition"
+            ],
+            [
+              "Settings seem unchanged",
+              "Whether the plugin reads them only at startup"
+            ],
+            [
+              "Problem after game update",
+              "Supported build and current mod changelog"
+            ],
+            [
+              "Two versions load",
+              "Migration instructions and duplicate plugin folders"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "remove-mods",
+        "heading": "How to Remove Mods and Return to Vanilla",
+        "subsections": [
+          {
+            "heading": "Use supported purge/uninstall steps and Steam file verification",
+            "paragraphs": [
+              "Close the game before removing a plugin. For a manager installation, follow its supported disable and purge procedure. For a manual installation, use the author's uninstall instructions and your file list. ModDeck's author specifies removing its plugin folder; that is a per-mod instruction, not a general loader-removal recipe.",
+              "Steam file verification checks the game's installed files, but it should not be your only removal step: additional mod files can remain outside that set. Check the relevant mod and loader removal instructions, verify the base installation, and test a clean launch. Keep backups until the unmodified game and your chosen save work as expected."
+            ],
+            "links": [
+              {
+                "slug": "guide-wiki",
+                "label": "Return to the beginner walkthrough"
+              },
+              {
+                "slug": "",
+                "label": "See the Nivalis Nights game overview"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Where can I download Nivalis Nights mods?",
+        "answer": "Use the game's Nexus Mods hub and each author's actual Files page. The source links below point to three real listings. This site provides installation guidance and does not host their archives."
+      },
+      {
+        "question": "Are the listed mods guaranteed safe or compatible?",
+        "answer": "No installation guarantee follows from a listing. Read requirements and recent support posts, use the author's downloads, keep save backups, and test the exact combination on your own build before continuing important progress."
+      },
+      {
+        "question": "Do all mods need BepInEx?",
+        "answer": "Requirements are specific to each mod. The ModDeck and Performance Fix pages currently specify BepInEx 6 IL2CPP. Read the selected author's requirements instead of applying that loader choice to every download."
+      },
+      {
+        "question": "Can I use Vortex?",
+        "answer": "Use it when current game support and the selected mod or collection instructions cover your installation. Check the extension, game path, deployment method, and removal procedure before adding files."
+      },
+      {
+        "question": "What should I do after a game patch?",
+        "answer": "Compare the new game build with the author's supported version and changelog. Test a recoverable save, close the game before file changes, and remove or update incompatible additions one at a time."
+      },
+      {
+        "question": "Will Steam verification remove every mod?",
+        "answer": "Do not rely on verification alone to remove additional files. Follow the author's or manager's supported uninstall steps, inspect remaining loader and plugin files, then verify and test the base game."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Nexus Mods: Nivalis Nights hub",
+        "url": "https://www.nexusmods.com/games/nivalisnights"
+      },
+      {
+        "label": "Nivalis ModDeck — Voynicch",
+        "url": "https://www.nexusmods.com/nivalisnights/mods/123"
+      },
+      {
+        "label": "Nivalis Performance Fix — hoho92",
+        "url": "https://www.nexusmods.com/nivalisnights/mods/57"
+      },
+      {
+        "label": "Auto Save — pineapple54",
+        "url": "https://www.nexusmods.com/nivalisnights/mods/22"
+      }
+    ],
+    "relatedSlugs": [
+      "guide-wiki"
+    ],
+    "lastReviewed": "2026-10-11"
+  },
+  {
+    "enabled": true,
+    "slug": "seafaring",
+    "pageType": "guide",
+    "navLabel": "Seafaring",
+    "title": "Nivalis Nights Seafaring Quest: Boat & Treasure Guide",
+    "description": "Follow the Nivalis Nights Seafaring quest from the Docks to your boat, Oil Rig treasure search, radar clues, fishing objective, and quest troubleshooting.",
+    "navVisible": true,
+    "hero": {
+      "eyebrow": "Nivalis Nights / Seafaring",
+      "heading": "Nivalis Nights Seafaring Quest Walkthrough",
+      "lead": "For the Nivalis Nights Seafaring quest, follow your journal to Salt Pete at the Docks, board your boat, and complete the introductory navigation stage. Return when instructed before beginning the Oil Rig treasure search. Once that objective is active, use the boat scanner to find the marked fishing area and cast your bobber into it. Inspect unusual catches and return to the character named by the next stage. Match these checks to your current save: reaching a landmark, locating a target, catching an item, and handing it over are separate actions."
+    },
+    "sections": [
+      {
+        "id": "start-seafaring",
+        "heading": "How to Start the Seafaring Quest",
+        "subsections": [
+          {
+            "heading": "Find the Docks, Salt Pete and your boat",
+            "paragraphs": [
+              "The community quest reference identifies Salt Pete at the Docks as the central contact. Look at your active objectives and conversations for the boat-related instruction, then speak to him when that stage is available. Use the boat interaction shown in your game after the introduction, rather than assuming that any docked craft is yours.",
+              "If the boat objective has not appeared, continue the current opening tasks and inspect the relevant conversation prompts. A walkthrough is easiest to follow when it starts from the stage your save already shows. Do not skip directly to a treasure location because another player is farther along."
+            ]
+          },
+          {
+            "heading": "What to prepare before leaving",
+            "paragraphs": [
+              "Make sure you have a fishing rod and can equip it before planning a treasure search. Check the boat's fuel display and the refueling interaction available on your route; the community sailing guide describes fuel as a practical limit. Learn the basic navigation prompt near the Docks before taking a longer trip.",
+              "Save before setting out and keep the current objective wording handy. Leave room to inspect and retain unusual catches. You will get more useful feedback from one deliberate search than from a long trip with no record of the active stage."
+            ],
+            "links": [
+              {
+                "slug": "fishing",
+                "label": "Check rod equipment and fishing inputs before sailing"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "seafaring-walkthrough",
+        "heading": "Nivalis Nights Seafaring Quest Walkthrough",
+        "steps": [
+          {
+            "heading": "First boat trip and learning navigation",
+            "description": "After the Salt Pete introduction, board the boat and use the steering interaction. Complete the new-area discovery instruction shown in your journal, then check whether it asks you to return."
+          },
+          {
+            "heading": "Return after the introduction",
+            "description": "Speak to Salt Pete when instructed and follow the next conversation or contact prompt. This separates learning to sail from the later treasure objective."
+          },
+          {
+            "heading": "Follow the objective toward the Oil Rig",
+            "description": "When the first treasure search is active, head toward the named area and read any scanner explanation. Confirm the objective before beginning repeated casts."
+          },
+          {
+            "heading": "Use the scanner/radar to locate treasure",
+            "description": "Follow the target signal until the marked fishing area appears. Adjust the boat so you can cast into that area, checking the bobber's landing position."
+          },
+          {
+            "heading": "Cast to catch the quest treasure and continue",
+            "description": "Equip the rod, put the bobber in the target area, and respond to the bite cue. Inspect unusual catches against the quest instruction before selling or discarding them."
+          },
+          {
+            "heading": "Return to Salt Pete and check the current quest log",
+            "description": "When the journal asks for a return or handoff, complete it and read the next stage. Continue any later search using the new objective rather than reusing the first target."
+          }
+        ],
+        "table": {
+          "caption": "Match your action to the current stage",
+          "columns": [
+            "Stage",
+            "Action",
+            "Next check"
+          ],
+          "rows": [
+            [
+              "Boat introduction",
+              "Talk, board, and steer as prompted",
+              "Is the new-area objective active?"
+            ],
+            [
+              "Discovery trip",
+              "Reach the area the task asks you to discover",
+              "Does the journal ask for a return?"
+            ],
+            [
+              "Oil Rig search",
+              "Follow the scanner instruction in the named area",
+              "Has the marked fishing target appeared?"
+            ],
+            [
+              "Treasure catch",
+              "Cast the bobber into the indicated area",
+              "Do the item and objective match?"
+            ],
+            [
+              "Return / handoff",
+              "Speak to the person named in the journal",
+              "Has the next stage become active?"
+            ]
+          ]
+        },
+        "paragraphs": [
+          "The community quest reference continues beyond the first Oil Rig treasure with later searches and conversations. After each handoff, read the newly named area and contact before leaving again. A route intended for a later treasure is not a substitute for completing the first stage, and your current journal is the useful boundary for avoiding unnecessary spoilers."
+        ]
+      },
+      {
+        "id": "radar-controls",
+        "heading": "Boat Controls, Radar and Treasure Markers",
+        "subsections": [
+          {
+            "heading": "Reading scanner pulses and target zones",
+            "paragraphs": [
+              "Community sailing guidance describes yellow scanner pulses leading toward a treasure target and a green circle indicating where to fish. Use the signals as a search sequence: locate the activity, approach carefully, then position for a deliberate cast. Ordinary fish activity alone does not identify the item your quest needs.",
+              "Keep your attention on both the water and the current objective. If a marker appears while you move, slow down and work out where the cast should land before changing direction again. Check the current steering and scanner prompts in your own setup rather than copying unsupported controller buttons."
+            ]
+          },
+          {
+            "heading": "Why the boat position differs from the bobber target",
+            "paragraphs": [
+              "Steam players explain that the bobber belongs inside the green circle; the boat can sit outside it if that gives a useful casting angle. A boat centered on the target can still produce a cast outside it. Watch the landing point, then reposition only as much as you need for an accurate attempt.",
+              "The same discussion distinguishes an Android head reported as a quest catch from Android hands described as ordinary salvage. Keep unusual items and compare their exact names with the current objective. Treat the journal and required conversation as the progress check rather than deciding an unfamiliar item is worthless."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "seafaring-fixes",
+        "heading": "Seafaring Quest Stuck? Fix Common Problems",
+        "subsections": [
+          {
+            "heading": "Radar target not appearing",
+            "paragraphs": [
+              "Check the active stage first. If it still asks you to discover an area or return to Salt Pete, complete that action before searching for the treasure target. Once the search is active, confirm the named area and any scanner explanation. Look at the current update notes if your prompts differ from older advice."
+            ]
+          },
+          {
+            "heading": "Fishing at the marker catches nothing",
+            "paragraphs": [
+              "Check where the bobber lands and wait for the bite cue. An unsuccessful cast or ordinary catch does not by itself establish a broken quest. Recast into the active zone, inspect what you retrieve, and compare the item with the journal. If progress still fails, record those checks and your game build before seeking support."
+            ]
+          },
+          {
+            "heading": "Boat fuel or navigation issue",
+            "paragraphs": [
+              "Inspect the fuel display before extending a search and use a refueling point the game actually marks on your route. If curfew restricts travel, Steam players report a sleep interaction on the boat's sofa. Check whether your boat offers that prompt and resume from the new day when available.",
+              "For a persistent issue, record the current objective, area, scanner result, bobber position, and caught item. Include whether the problem occurs in the base game or with mods. A concise report with those details is more useful than repeatedly sailing to the same landmark without a new check."
+            ]
+          }
+        ],
+        "table": {
+          "caption": "Troubleshooting branches",
+          "columns": [
+            "What you see",
+            "Check next"
+          ],
+          "rows": [
+            [
+              "No treasure target",
+              "Current quest stage, named area, and scanner explanation"
+            ],
+            [
+              "Only ordinary fish or salvage",
+              "Bobber inside the active circle and exact caught-item name"
+            ],
+            [
+              "Item present but no progress",
+              "Required amount or return conversation in the journal"
+            ],
+            [
+              "Fuel low",
+              "Displayed fuel and an accessible refueling prompt"
+            ],
+            [
+              "Travel blocked during curfew",
+              "Boat sofa sleep interaction, if available in your save"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "fishing-exploration",
+        "heading": "How Seafaring Relates to Fishing and Exploration",
+        "paragraphs": [
+          "Seafaring adds navigation and target finding to the ordinary fishing sequence. If equipping or reeling is the problem, practice those inputs before another offshore search. If catches work but the objective does not, focus on the stage, target area, and required item. That distinction keeps you from treating every stalled objective as a controls problem.",
+          "Use the broader beginner guide when you need to plan supplies, follow a travel restriction, or decide which task to finish first. Return to the game overview when you want a different activity for the session. You can keep the next Seafaring instruction recorded and come back with a clear plan."
+        ],
+        "links": [
+          {
+            "slug": "fishing",
+            "label": "Practice fishing controls and bite timing"
+          },
+          {
+            "slug": "guide-wiki",
+            "label": "Review city travel and quest checks"
+          },
+          {
+            "slug": "",
+            "label": "Return to the Nivalis Nights guide hub"
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "How do I start the Seafaring quest?",
+        "answer": "Follow the available boat-related objective to Salt Pete at the Docks, then use the boat interaction and journal instructions. Complete the introductory stages before beginning a treasure search."
+      },
+      {
+        "question": "Why do I need to return to Salt Pete?",
+        "answer": "The community quest sequence separates the discovery trip from the treasure introduction and subsequent handoffs. When your journal names a return conversation, complete it and read the next instruction before sailing again."
+      },
+      {
+        "question": "What should I follow on the scanner?",
+        "answer": "Community guidance describes yellow pulses leading toward a treasure target and a green fishing circle marking the casting area. Confirm that the treasure-search stage is active and use your current scanner prompts."
+      },
+      {
+        "question": "Should the boat or the bobber be inside the green circle?",
+        "answer": "Steam players emphasize the bobber. Position the boat wherever you can make the cast land inside the marked zone, then wait for the bite cue and inspect the resulting item."
+      },
+      {
+        "question": "What if I cannot equip a fishing rod?",
+        "answer": "Open inventory and use the equipment action for the rod. If you have not obtained one, check the fishing guide's Boardwalk Ady starting route at the Docks before attempting the treasure objective."
+      },
+      {
+        "question": "What if I remain stuck after a successful catch?",
+        "answer": "Compare the exact item with the active objective and complete any required return conversation. Record the stage, build, target, and item if it still fails, then check current Steam discussions and update notes for a matching issue."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Seafaring community quest reference",
+        "url": "https://nivalis-nights.com/wiki/quests/seafaring/",
+        "description": "Boat introduction, first treasure search, and return stages."
+      },
+      {
+        "label": "Steam: treasure target, catches, and boat sleep discussion",
+        "url": "https://steamcommunity.com/app/1488490/discussions/0/583935635494110111/"
+      },
+      {
+        "label": "Community scanner and fuel guidance",
+        "url": "https://nivalisnights.fun/quests/seafaring-quest"
+      },
+      {
+        "label": "Steam News and updates",
+        "url": "https://store.steampowered.com/news/app/1488490/"
+      }
+    ],
+    "relatedSlugs": [
+      "fishing",
+      "guide-wiki"
+    ],
+    "lastReviewed": "2026-10-11",
+    "howToSectionId": "seafaring-walkthrough"
+  }
+]

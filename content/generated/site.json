@@ -1,0 +1,73 @@
+{
+  "readyForLaunch": true,
+  "siteName": "Nivalis Nights Guide",
+  "shortName": "Nivalis Nights",
+  "description": "Independent Nivalis Nights wiki with beginner, fishing, liquid nitrogen, mods, and Seafaring guides.",
+  "language": "en-US",
+  "locale": "en_US",
+  "authorName": "Editorial Team",
+  "theme": {
+    "preset": "obsidian-red",
+    "overrides": {
+      "background": "221 51% 7%",
+      "foreground": "0 0% 99%",
+      "card": "221 51% 12%",
+      "card-foreground": "0 0% 99%",
+      "primary": "25 95% 53%",
+      "primary-foreground": "0 0% 0%",
+      "secondary": "221 51% 18%",
+      "muted": "221 51% 15%",
+      "muted-foreground": "0 0% 99%",
+      "border": "221 51% 23%",
+      "radius": ".75rem",
+      "card-shadow": "0 22px 70px hsl(25 95% 53% / .16)",
+      "hero-gradient": "radial-gradient(circle at 78% 14%, hsl(25 95% 53% / .2), transparent 36%)",
+      "background-pattern": "radial-gradient(hsl(25 95% 53% / .05) 1px, transparent 1px)",
+      "font-sans": "\"Source Sans 3\", ui-sans-serif, system-ui, sans-serif",
+      "font-heading": "\"Source Serif 4\", Georgia, Cambria, serif",
+      "heading-weight": "600",
+      "heading-letter-spacing": "-0.02em"
+    },
+    "skin": "dark-editorial",
+    "headerStyle": "solid",
+    "componentStyle": "sharp",
+    "accentColorId": "orange",
+    "colorMode": "custom",
+    "background": "#090F1C",
+    "accent": "#F97316",
+    "fontId": "source-serif"
+  },
+  "hosting": {
+    "siteUrl": "https://nivalis-nights.github.io",
+    "basePath": "",
+    "customDomain": null
+  },
+  "allowedExternalDomains": [
+    "store.steampowered.com",
+    "steamcommunity.com",
+    "www.nexusmods.com",
+    "www.reddit.com",
+    "tposegaming.com",
+    "nivalis-nights.com",
+    "nivalisnights.fun",
+    "nivalisnightss.wiki"
+  ],
+  "assets": {
+    "logo": "/images/nivalis-nights-logo.jpg",
+    "cover": "/images/nivalis-nights-cover.jpg",
+    "openGraph": "/images/nivalis-nights-og.svg",
+    "favicon": "/images/nivalis-nights-logo.jpg"
+  },
+  "game": {
+    "name": "Nivalis Nights",
+    "platform": "Steam",
+    "developer": "ION LANDS",
+    "genre": "Life and business simulation",
+    "officialUrl": "https://store.steampowered.com/app/1488490/Nivalis_Nights/",
+    "publisher": "505 Games",
+    "releaseDate": "2026-09-29"
+  },
+  "seo": {
+    "titleTemplate": "%s"
+  }
+}
